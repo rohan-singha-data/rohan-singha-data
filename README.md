@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**rohan-singha-data/rohan-singha-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst transitioning into Data Science  
+📊 Currently completing IBM Data Science Professional Certificate  
+💻 Learning Python, SQL, Data Analysis, and Machine Learning  
+📈 Building real-world data projects  
 
-Here are some ideas to get you started:
+## Skills I'm Developing
+- Python (Pandas, NumPy)
+- SQL
+- Data Visualization
+- Exploratory Data Analysis
+- Machine Learning (Beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Strengthening SQL
+- Building portfolio projects
+- Preparing for entry-level Data Analyst roles
